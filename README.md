@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aayush3024/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aayush3024/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aayush3024/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0739-daily-temperatures](https://github.com/aayush3024/Leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/aayush3024/Leetcode/tree/master/0867-transpose-matrix) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aayush3024/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/aayush3024/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -98,8 +99,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aayush3024/Leetcode/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/aayush3024/Leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aayush3024/Leetcode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/aayush3024/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
