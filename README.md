@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aayush3024/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aayush3024/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aayush3024/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0682-baseball-game](https://github.com/aayush3024/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/aayush3024/Leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/aayush3024/Leetcode/tree/master/0867-transpose-matrix) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aayush3024/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/aayush3024/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/aayush3024/Leetcode/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aayush3024/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/aayush3024/Leetcode/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/aayush3024/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/aayush3024/Leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
