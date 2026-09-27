@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aayush3024/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aayush3024/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aayush3024/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/aayush3024/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/aayush3024/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/aayush3024/Leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/aayush3024/Leetcode/tree/master/0867-transpose-matrix) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aayush3024/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aayush3024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/aayush3024/Leetcode/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/aayush3024/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aayush3024/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/aayush3024/Leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/aayush3024/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/aayush3024/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/aayush3024/Leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/aayush3024/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/aayush3024/Leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
