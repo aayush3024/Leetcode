@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aayush3024/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/aayush3024/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/aayush3024/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayush3024/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aayush3024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/aayush3024/Leetcode/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/aayush3024/Leetcode/tree/master/0496-next-greater-element-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayush3024/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aayush3024/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aayush3024/Leetcode/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayush3024/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 <!---LeetCode Topics End-->
