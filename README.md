@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/aayush3024/Leetcode/tree/master/0867-transpose-matrix) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aayush3024/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/aayush3024/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aayush3024/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/aayush3024/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayush3024/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aayush3024/Leetcode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/aayush3024/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/aayush3024/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aayush3024/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
 |  |
 | ------- |
@@ -145,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0791-custom-sort-string](https://github.com/aayush3024/Leetcode/tree/master/0791-custom-sort-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aayush3024/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayush3024/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 <!---LeetCode Topics End-->
