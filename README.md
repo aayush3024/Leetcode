@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/aayush3024/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayush3024/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aayush3024/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [4044-count-good-cyclic-rotations](https://github.com/aayush3024/Leetcode/tree/master/4044-count-good-cyclic-rotations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aayush3024/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1991-find-the-middle-index-in-array](https://github.com/aayush3024/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/aayush3024/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [4044-count-good-cyclic-rotations](https://github.com/aayush3024/Leetcode/tree/master/4044-count-good-cyclic-rotations) |
 ## String
 |  |
 | ------- |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aayush3024/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Sliding Window
+|  |
+| ------- |
+| [4044-count-good-cyclic-rotations](https://github.com/aayush3024/Leetcode/tree/master/4044-count-good-cyclic-rotations) |
 <!---LeetCode Topics End-->
