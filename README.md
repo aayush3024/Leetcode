@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aayush3024/Leetcode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aayush3024/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/aayush3024/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/aayush3024/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/aayush3024/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aayush3024/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aayush3024/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aayush3024/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aayush3024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/aayush3024/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aayush3024/Leetcode/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/aayush3024/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0791-custom-sort-string](https://github.com/aayush3024/Leetcode/tree/master/0791-custom-sort-string) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aayush3024/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/aayush3024/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aayush3024/Leetcode/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aayush3024/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0791-custom-sort-string](https://github.com/aayush3024/Leetcode/tree/master/0791-custom-sort-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aayush3024/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -198,5 +202,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aayush3024/Leetcode/tree/master/0169-majority-element) |
 | [2404-most-frequent-even-element](https://github.com/aayush3024/Leetcode/tree/master/2404-most-frequent-even-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aayush3024/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
