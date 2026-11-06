@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aayush3024/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/aayush3024/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aayush3024/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2404-most-frequent-even-element](https://github.com/aayush3024/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2574-left-and-right-sum-differences](https://github.com/aayush3024/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayush3024/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aayush3024/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aayush3024/Leetcode/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/aayush3024/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0791-custom-sort-string](https://github.com/aayush3024/Leetcode/tree/master/0791-custom-sort-string) |
+| [2404-most-frequent-even-element](https://github.com/aayush3024/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayush3024/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/aayush3024/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4044-count-good-cyclic-rotations](https://github.com/aayush3024/Leetcode/tree/master/4044-count-good-cyclic-rotations) |
+## Counting
+|  |
+| ------- |
+| [2404-most-frequent-even-element](https://github.com/aayush3024/Leetcode/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
