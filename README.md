@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/aayush3024/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayush3024/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aayush3024/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/aayush3024/Leetcode/tree/master/3731-find-missing-elements) |
 | [4044-count-good-cyclic-rotations](https://github.com/aayush3024/Leetcode/tree/master/4044-count-good-cyclic-rotations) |
 ## Two Pointers
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aayush3024/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0791-custom-sort-string](https://github.com/aayush3024/Leetcode/tree/master/0791-custom-sort-string) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayush3024/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3731-find-missing-elements](https://github.com/aayush3024/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aayush3024/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aayush3024/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayush3024/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3731-find-missing-elements](https://github.com/aayush3024/Leetcode/tree/master/3731-find-missing-elements) |
 ## Memoization
 |  |
 | ------- |
