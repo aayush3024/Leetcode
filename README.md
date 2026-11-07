@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aayush3024/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/aayush3024/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aayush3024/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/aayush3024/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2404-most-frequent-even-element](https://github.com/aayush3024/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2574-left-and-right-sum-differences](https://github.com/aayush3024/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aayush3024/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aayush3024/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1991-find-the-middle-index-in-array](https://github.com/aayush3024/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/aayush3024/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/aayush3024/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [4044-count-good-cyclic-rotations](https://github.com/aayush3024/Leetcode/tree/master/4044-count-good-cyclic-rotations) |
 ## String
