@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/aayush3024/Leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/aayush3024/Leetcode/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/aayush3024/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [0989-add-to-array-form-of-integer](https://github.com/aayush3024/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aayush3024/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aayush3024/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/aayush3024/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aayush3024/Leetcode/tree/master/0202-happy-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aayush3024/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/aayush3024/Leetcode/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/aayush3024/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
