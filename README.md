@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aayush3024/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/aayush3024/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/aayush3024/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/aayush3024/Leetcode/tree/master/0342-power-of-four) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aayush3024/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/aayush3024/Leetcode/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/aayush3024/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aayush3024/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/aayush3024/Leetcode/tree/master/0342-power-of-four) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/aayush3024/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aayush3024/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/aayush3024/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/aayush3024/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/aayush3024/Leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
