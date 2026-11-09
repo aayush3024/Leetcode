@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aayush3024/Leetcode/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/aayush3024/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/aayush3024/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/aayush3024/Leetcode/tree/master/0258-add-digits) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aayush3024/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aayush3024/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aayush3024/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/aayush3024/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aayush3024/Leetcode/tree/master/0509-fibonacci-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aayush3024/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aayush3024/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aayush3024/Leetcode/tree/master/0509-fibonacci-number) |
 ## Depth-First Search
 |  |
