@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aayush3024/Leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/aayush3024/Leetcode/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/aayush3024/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/aayush3024/Leetcode/tree/master/0125-valid-palindrome) |
 | [0791-custom-sort-string](https://github.com/aayush3024/Leetcode/tree/master/0791-custom-sort-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aayush3024/Leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/aayush3024/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/aayush3024/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aayush3024/Leetcode/tree/master/0735-asteroid-collision) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aayush3024/Leetcode/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/aayush3024/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/aayush3024/Leetcode/tree/master/0258-add-digits) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aayush3024/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
