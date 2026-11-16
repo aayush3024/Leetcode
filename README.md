@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/aayush3024/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0791-custom-sort-string](https://github.com/aayush3024/Leetcode/tree/master/0791-custom-sort-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aayush3024/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aayush3024/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/aayush3024/Leetcode/tree/master/2810-faulty-keyboard) |
 ## Binary Search
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/aayush3024/Leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/aayush3024/Leetcode/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/aayush3024/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aayush3024/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/aayush3024/Leetcode/tree/master/2810-faulty-keyboard) |
 ## Hash Table
 |  |
