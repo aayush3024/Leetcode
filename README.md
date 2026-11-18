@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aayush3024/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aayush3024/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/aayush3024/Leetcode/tree/master/2810-faulty-keyboard) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aayush3024/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Binary Search
 |  |
 | ------- |
